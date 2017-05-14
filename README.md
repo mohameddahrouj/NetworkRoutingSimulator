@@ -1,5 +1,5 @@
 ## SYSC 3110 Group Project: Network Routing Simulator
-### Group Members: Alex Hoecht, Andrew Ward, Mohamed Dahrouj, Shasthra Ranasinghe
+#### Group Members: Alex Hoecht, Andrew Ward, Mohamed Dahrouj, Shasthra Ranasinghe
 
 ### Summary:
 ----------------------------------------------
