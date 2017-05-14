@@ -38,6 +38,6 @@ The project is divided into 4 iterations, each of which correspond to a mileston
 5) For any further help with the program, refer to 'Help'->'User Manual' in the GUI.
 
 
-###Notes
+### Notes
 ----------------------------------------------
 As requested, a .docx file has been added to the project. The UML diagrams, design choices, assumptions, developer contributions have been moved to the .docx along with the contents of this README.
